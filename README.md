@@ -17,7 +17,7 @@ I'm a Computer Science (AI/ML) student in Bengaluru who builds software for real
 
 - Building AI-powered web products, end to end
 - Fine-tuning open-source language models
-- Contributing to open-source AI projects
+
 
 ### Tech
 
