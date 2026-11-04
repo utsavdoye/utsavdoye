@@ -6,7 +6,6 @@
   <a href="https://utsavdoye.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/utsav-doye/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
   <a href="mailto:utsavdoye07@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
-  <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-0F172A?style=flat-square&logo=x&logoColor=38BDF8" alt="X"/></a>
 </p>
 
 ### About
