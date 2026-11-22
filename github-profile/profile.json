@@ -1,0 +1,23 @@
+{
+  "name": "Utsav Doye",
+  "handle": "utsavdoye",
+  "intro": "whoami",
+  "tagline": "CS (AI/ML) undergrad | Bengaluru, India",
+  "about": "I take messy, everyday problems and turn them into tools people rely on.",
+  "focus": [
+    "AI-powered web products, built end to end",
+    "Fine-tuning open-source language models"
+  ],
+  "status": {
+    "command": "./internship --status",
+    "label": "OPEN",
+    "text": "Software Engineering and AI/ML internships | Jul - Dec 2027"
+  },
+  "links": {
+    "site": "https://utsavdoye.com",
+    "linkedin": "https://www.linkedin.com/in/utsav-doye/",
+    "email": "utsavdoye07@gmail.com"
+  },
+  "timezone": "Asia/Kolkata",
+  "timezoneLabel": "IST"
+}
