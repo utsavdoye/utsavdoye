@@ -1911,8 +1911,8 @@
 </div>
 
 
-<div class="stdin"><span class="ps1-path">utsavdoye@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [#################   ] 80.26%
-<b>TYPESCRIPT  </b> [####                ] 16.79%
+<div class="stdin"><span class="ps1-path">utsavdoye@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [#################   ] 80.24%
+<b>TYPESCRIPT  </b> [####                ] 16.80%
 <b>PLPGSQL     </b> [#                   ] 2.00 %
 <b>PYTHON      </b> [#                   ] 0.85 %
 <b>SHELL       </b> [#                   ] 0.07 %
