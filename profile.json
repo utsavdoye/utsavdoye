@@ -5,13 +5,13 @@
   "tagline": "CS (AI/ML) undergrad | Bengaluru, India",
   "about": "I take messy, everyday problems and turn them into tools people rely on.",
   "focus": [
-    "AI-powered web products, built end to end",
+    "Products, apps and systems that make people's lives easier",
     "New ideas, prototyped fast to find the ones worth building"
   ],
   "status": {
     "command": "./internship --status",
     "label": "OPEN",
-    "text": "Software Engineering and AI/ML internships | Jul - Dec 2027"
+    "text": "Software Engineering internships | Jul - Dec 2027"
   },
   "links": {
     "site": "https://utsavdoye.com",
