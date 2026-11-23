@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 768px)" srcset="assets/hero-mobile.svg" />
-    <img src="assets/hero.svg" width="100%" alt="Utsav Doye. CS (AI/ML) undergrad in Bengaluru, India. I take messy, everyday problems and turn them into tools people rely on. Focus: AI-powered web products built end to end, and new ideas, prototyped fast to find the ones worth building. Open to Software Engineering and AI/ML internships, July to December 2027." />
+    <img src="assets/hero.svg" width="100%" alt="Utsav Doye. CS (AI/ML) undergrad in Bengaluru, India. I take messy, everyday problems and turn them into tools people rely on. Focus: products, apps and systems that make people's lives easier, and new ideas, prototyped fast to find the ones worth building. Open to Software Engineering internships, July to December 2027." />
   </picture>
 </p>
 
