@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">utsavdoye@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Utsav Doye</b> registered=6y, uid=1535, gid=0
-  contributed to 35 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span></b>
+  contributed to 35 repositories <b><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>1</b> user
 </div>
 <div class="stdin"><span class="ps1-path">utsavdoye@metrics</span>:<span class="ps1-location">~</span># ncal -MB11</div><div class="stdout"><div class="isocalendar">
@@ -1885,14 +1885,19 @@
                       <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
                       <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
+                    </g>
+                    <g transform="translate(-5.1, 6.085714285714285)">
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.914285714285715 0,3.914285714285714 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.914285714285714 1.7,4.914285714285715 z"/>
                     </g></g></g></svg></div>
-<b>    3</b> consecutive days with commits
-<b>~1.41</b> commits per day in average
+<b>    4</b> consecutive days with commits
+<b>~1.46</b> commits per day in average
 </div>
 
 
-<div class="stdin"><span class="ps1-path">utsavdoye@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [################    ] 79.36%
-<b>TYPESCRIPT  </b> [####                ] 17.71%
+<div class="stdin"><span class="ps1-path">utsavdoye@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [################    ] 79.25%
+<b>TYPESCRIPT  </b> [####                ] 17.81%
 <b>PLPGSQL     </b> [#                   ] 1.98 %
 <b>PYTHON      </b> [#                   ] 0.86 %
 <b>SHELL       </b> [#                   ] 0.07 %
