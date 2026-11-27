@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="541" viewBox="0 0 480 541" role="img" aria-label="Coding habits over the last 30 days: 124 pushes to 13 repositories, active on 20 of those days. Most active around 22:00 IST, and on Mon.">
-<title>Coding habits over the last 30 days: 124 pushes to 13 repositories, active on 20 of those days. Most active around 22:00 IST, and on Mon.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="541" viewBox="0 0 480 541" role="img" aria-label="Coding habits over the last 30 days: 118 pushes to 10 repositories, active on 19 of those days. Most active around 22:00 IST, and on Mon.">
+<title>Coding habits over the last 30 days: 118 pushes to 10 repositories, active on 19 of those days. Most active around 22:00 IST, and on Mon.</title>
 <defs>
 <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#504B45"/><stop offset="1" stop-color="#3C3B37"/></linearGradient>
 <linearGradient id="btn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7D7871"/><stop offset="1" stop-color="#595953"/></linearGradient>
@@ -54,65 +54,65 @@ text{font-family:'Courier Prime',ui-monospace,SFMono-Regular,Menlo,Consolas,'Lib
 <text x="180" y="48.68" textLength="268.8" fill="#FFFFFF">git log --since=30.days | habits</text>
 <g class="t2"><rect x="179.5" y="35" width="269.8" height="19" fill="#42092B"/><rect class="cur c2" x="180" y="37.66" width="8.40" height="14.82" fill="#DDDDDD"/></g>
 <g class="o o3"><text x="12" y="86.68" textLength="117.6" fill="#DDDDDD" font-weight="bold">PUSHES PER DAY</text></g>
-<g class="o o3"><text x="297.6" y="86.68" textLength="168" fill="#7EDA29">active 20 of 30 days</text></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.66s" x="14.00" y="142.46" width="11.12" height="21.54" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.67s" x="29.12" y="161.31" width="11.12" height="2.69" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.69s" x="44.24" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.70s" x="59.36" y="153.23" width="11.12" height="10.77" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.72s" x="74.48" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.73s" x="89.60" y="155.92" width="11.12" height="8.08" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.75s" x="104.72" y="147.85" width="11.12" height="16.15" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.76s" x="119.84" y="158.62" width="11.12" height="5.38" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.78s" x="134.96" y="155.92" width="11.12" height="8.08" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.79s" x="150.08" y="158.62" width="11.12" height="5.38" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.81s" x="165.20" y="139.77" width="11.12" height="24.23" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.82s" x="180.32" y="161.31" width="11.12" height="2.69" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.84s" x="195.44" y="147.85" width="11.12" height="16.15" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.85s" x="210.56" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.87s" x="225.68" y="142.46" width="11.12" height="21.54" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.88s" x="240.80" y="161.31" width="11.12" height="2.69" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.90s" x="255.92" y="155.92" width="11.12" height="8.08" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.92s" x="271.04" y="147.85" width="11.12" height="16.15" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><text x="297.6" y="86.68" textLength="168" fill="#7EDA29">active 19 of 30 days</text></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.66s" x="14.00" y="161.31" width="11.12" height="2.69" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.67s" x="29.12" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.69s" x="44.24" y="153.23" width="11.12" height="10.77" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.70s" x="59.36" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.72s" x="74.48" y="155.92" width="11.12" height="8.08" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.73s" x="89.60" y="147.85" width="11.12" height="16.15" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.75s" x="104.72" y="158.62" width="11.12" height="5.38" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.76s" x="119.84" y="155.92" width="11.12" height="8.08" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.78s" x="134.96" y="158.62" width="11.12" height="5.38" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.79s" x="150.08" y="139.77" width="11.12" height="24.23" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.81s" x="165.20" y="161.31" width="11.12" height="2.69" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.82s" x="180.32" y="147.85" width="11.12" height="16.15" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.84s" x="195.44" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.85s" x="210.56" y="142.46" width="11.12" height="21.54" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.87s" x="225.68" y="161.31" width="11.12" height="2.69" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.88s" x="240.80" y="155.92" width="11.12" height="8.08" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.90s" x="255.92" y="147.85" width="11.12" height="16.15" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.92s" x="271.04" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:1.93s" x="286.16" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:1.94s" x="301.28" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.96s" x="316.40" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.97s" x="331.52" y="161.31" width="11.12" height="2.69" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.96s" x="316.40" y="161.31" width="11.12" height="2.69" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.97s" x="331.52" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:1.99s" x="346.64" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:2.00s" x="361.76" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.02s" x="376.88" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.04s" x="392.00" y="126.31" width="11.12" height="37.69" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.05s" x="407.12" y="94.00" width="11.12" height="70.00" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.06s" x="422.24" y="118.23" width="11.12" height="45.77" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.08s" x="437.36" y="155.92" width="11.12" height="8.08" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.02s" x="376.88" y="126.31" width="11.12" height="37.69" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.04s" x="392.00" y="94.00" width="11.12" height="70.00" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.05s" x="407.12" y="115.54" width="11.12" height="48.46" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.06s" x="422.24" y="153.23" width="11.12" height="10.77" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.08s" x="437.36" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:2.09s" x="452.48" y="162.00" width="11.12" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
 <g class="o o3"><text x="12" y="181.68" textLength="58.8" fill="#AE9DA7">29d ago</text></g>
 <g class="o o3"><text x="423.6" y="181.68" textLength="42" fill="#AE9DA7">today</text></g>
 <g class="o o3"><text x="12" y="219.68" textLength="168" fill="#DDDDDD" font-weight="bold">PUSHES BY HOUR (IST)</text></g>
 <g class="o o3"><text x="381.6" y="219.68" textLength="84" fill="#7EDA29">peak 22:00</text></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.96s" x="14.00" y="262.00" width="14.90" height="35.00" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.97s" x="32.90" y="285.33" width="14.90" height="11.67" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:1.99s" x="51.80" y="293.11" width="14.90" height="3.89" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.00s" x="70.70" y="289.22" width="14.90" height="7.78" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.96s" x="14.00" y="263.84" width="14.90" height="33.16" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.97s" x="32.90" y="285.95" width="14.90" height="11.05" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:1.99s" x="51.80" y="293.32" width="14.90" height="3.68" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.00s" x="70.70" y="289.63" width="14.90" height="7.37" rx="1.5" fill="#AE9DA7"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:2.02s" x="89.60" y="295.00" width="14.90" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.04s" x="108.50" y="289.22" width="14.90" height="7.78" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.05s" x="127.40" y="293.11" width="14.90" height="3.89" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.04s" x="108.50" y="289.63" width="14.90" height="7.37" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.05s" x="127.40" y="295.00" width="14.90" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:2.06s" x="146.30" y="295.00" width="14.90" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:2.08s" x="165.20" y="295.00" width="14.90" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.09s" x="184.10" y="285.33" width="14.90" height="11.67" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.09s" x="184.10" y="293.32" width="14.90" height="3.68" rx="1.5" fill="#AE9DA7"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:2.11s" x="203.00" y="295.00" width="14.90" height="2.00" rx="1.5" fill="#AE9DA7" opacity=".35"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.13s" x="221.90" y="285.33" width="14.90" height="11.67" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.14s" x="240.80" y="265.89" width="14.90" height="31.11" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.15s" x="259.70" y="293.11" width="14.90" height="3.89" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.17s" x="278.60" y="281.44" width="14.90" height="15.56" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.19s" x="297.50" y="265.89" width="14.90" height="31.11" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.20s" x="316.40" y="269.78" width="14.90" height="27.22" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.21s" x="335.30" y="258.11" width="14.90" height="38.89" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.23s" x="354.20" y="277.56" width="14.90" height="19.44" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.25s" x="373.10" y="262.00" width="14.90" height="35.00" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.26s" x="392.00" y="273.67" width="14.90" height="23.33" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.27s" x="410.90" y="273.67" width="14.90" height="23.33" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.13s" x="221.90" y="285.95" width="14.90" height="11.05" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.14s" x="240.80" y="267.53" width="14.90" height="29.47" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.15s" x="259.70" y="293.32" width="14.90" height="3.68" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.17s" x="278.60" y="285.95" width="14.90" height="11.05" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.19s" x="297.50" y="271.21" width="14.90" height="25.79" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.20s" x="316.40" y="274.89" width="14.90" height="22.11" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.21s" x="335.30" y="260.16" width="14.90" height="36.84" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.23s" x="354.20" y="278.58" width="14.90" height="18.42" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.25s" x="373.10" y="263.84" width="14.90" height="33.16" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.26s" x="392.00" y="274.89" width="14.90" height="22.11" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.27s" x="410.90" y="274.89" width="14.90" height="22.11" rx="1.5" fill="#AE9DA7"/></g>
 <g class="o o3"><rect class="bar" style="animation-delay:2.29s" x="429.80" y="227.00" width="14.90" height="70.00" rx="1.5" fill="#7EDA29"/></g>
-<g class="o o3"><rect class="bar" style="animation-delay:2.30s" x="448.70" y="227.00" width="14.90" height="70.00" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><rect class="bar" style="animation-delay:2.30s" x="448.70" y="234.37" width="14.90" height="62.63" rx="1.5" fill="#AE9DA7"/></g>
 <g class="o o3"><text x="14.00" y="314.68" fill="#AE9DA7">00</text></g>
 <g class="o o3"><text x="127.40" y="314.68" fill="#AE9DA7">06</text></g>
 <g class="o o3"><text x="240.80" y="314.68" fill="#AE9DA7">12</text></g>
@@ -124,11 +124,11 @@ text{font-family:'Courier Prime',ui-monospace,SFMono-Regular,Menlo,Consolas,'Lib
 <g class="o o3"><rect class="hbar" style="animation-delay:2.26s" x="54" y="362" width="369.60" height="11" rx="1.5" fill="#7EDA29"/></g>
 <g class="o o3"><text x="448.8" y="371.68" textLength="16.8" fill="#DDDDDD">35</text></g>
 <g class="o o3"><text x="12" y="390.68" textLength="25.2" fill="#AE9DA7">Tue</text></g>
-<g class="o o3"><rect class="hbar" style="animation-delay:2.31s" x="54" y="381" width="242.88" height="11" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><text x="448.8" y="390.68" textLength="16.8" fill="#AE9DA7">23</text></g>
+<g class="o o3"><rect class="hbar" style="animation-delay:2.31s" x="54" y="381" width="253.44" height="11" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><text x="448.8" y="390.68" textLength="16.8" fill="#AE9DA7">24</text></g>
 <g class="o o3"><text x="12" y="409.68" textLength="25.2" fill="#AE9DA7">Wed</text></g>
-<g class="o o3"><rect class="hbar" style="animation-delay:2.36s" x="54" y="400" width="232.32" height="11" rx="1.5" fill="#AE9DA7"/></g>
-<g class="o o3"><text x="448.8" y="409.68" textLength="16.8" fill="#AE9DA7">22</text></g>
+<g class="o o3"><rect class="hbar" style="animation-delay:2.36s" x="54" y="400" width="158.40" height="11" rx="1.5" fill="#AE9DA7"/></g>
+<g class="o o3"><text x="448.8" y="409.68" textLength="16.8" fill="#AE9DA7">15</text></g>
 <g class="o o3"><text x="12" y="428.68" textLength="25.2" fill="#AE9DA7">Thu</text></g>
 <g class="o o3"><rect class="hbar" style="animation-delay:2.41s" x="54" y="419" width="52.80" height="11" rx="1.5" fill="#AE9DA7"/></g>
 <g class="o o3"><text x="457.2" y="428.68" textLength="8.4" fill="#AE9DA7">5</text></g>
@@ -141,7 +141,7 @@ text{font-family:'Courier Prime',ui-monospace,SFMono-Regular,Menlo,Consolas,'Lib
 <g class="o o3"><text x="12" y="485.68" textLength="25.2" fill="#AE9DA7">Sun</text></g>
 <g class="o o3"><rect class="hbar" style="animation-delay:2.56s" x="54" y="476" width="158.40" height="11" rx="1.5" fill="#AE9DA7"/></g>
 <g class="o o3"><text x="448.8" y="485.68" textLength="16.8" fill="#AE9DA7">15</text></g>
-<g class="o o3"><text x="12" y="523.68" textLength="184.8" fill="#AE9DA7">124 pushes to 13 repos</text></g>
-<g class="o o3"><text x="322.8" y="523.68" textLength="142.8" fill="#AE9DA7">as of 26 Nov 2026</text></g>
+<g class="o o3"><text x="12" y="523.68" textLength="184.8" fill="#AE9DA7">118 pushes to 10 repos</text></g>
+<g class="o o3"><text x="322.8" y="523.68" textLength="142.8" fill="#AE9DA7">as of 27 Nov 2026</text></g>
 </g>
 </svg>
